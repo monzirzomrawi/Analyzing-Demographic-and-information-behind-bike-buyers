@@ -35,7 +35,7 @@ I utilized pivot tables to effectively analyse and visualise my data.
 
 - I computed the average income for female and male who bought and didn't buy the bikes.
 
-![Screenshot (60)](https://github.com/monzirzomrawi/Analyzing-Demographic-and-information-behind-bike-buyers/assets/172976501/f13725a7-94ae-4ef6-8908-79ee015ff411)
+![Screenshot (61)](https://github.com/monzirzomrawi/Analyzing-Demographic-and-information-behind-bike-buyers/assets/172976501/78deb220-bda8-42ee-bb0f-b4397e6e2ae2)
  
 Men make more money than women.
 
