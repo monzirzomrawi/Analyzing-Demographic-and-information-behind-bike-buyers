@@ -55,7 +55,7 @@ Middle aged people purchased more bikes.
 
 - Now, I created the dashboard and inserted slicers to filter it.
 
-![Screenshot (60)](https://github.com/monzirzomrawi/Analyzing-Demographic-and-information-behind-bike-buyers/assets/172976501/f13725a7-94ae-4ef6-8908-79ee015ff411)
+![Screenshot (63)](https://github.com/monzirzomrawi/Analyzing-Demographic-and-information-behind-bike-buyers/assets/172976501/70d9b083-fc56-44e2-99cf-fd9ebdcba0a5)
 
  
 
